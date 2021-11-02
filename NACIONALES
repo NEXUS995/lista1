@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/GpXGC.jpg" group-title="REGIONAL TV", REGIONAL TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="REGIONAL TV", REGIONAL TV
 https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/playlist.m3u8
 
